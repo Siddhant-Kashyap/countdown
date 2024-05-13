@@ -1,0 +1,33 @@
+.landingPage{
+    margin: 0;
+    padding: 0;
+   
+    height: 99vh;
+    width: 99vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.heading1{
+    color: azure;
+    margin: 10px;
+}
+.heading2{
+    color: #AD00FF;
+    margin: 10px;
+    
+}
+.user-input{
+    text-align: center;
+}
+.countdown-card{
+    display: flex;
+    justify-content: center;
+}
